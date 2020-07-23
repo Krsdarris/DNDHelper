@@ -2,7 +2,8 @@
 C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\DNDHelper.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\DNDHelper.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  159 of 160 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    150 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   DNDHelper.vcxproj -> C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\Release\DNDHelper.exe

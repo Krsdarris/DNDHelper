@@ -1,8 +1,8 @@
-//includes 
-#include <string.h>;
+//includes
 #include <iostream>;
+#include <string.h>;
 
 int main()
 {
-	std::cout << "Hello World how are you ";
+	std::cout << "Hello World";
 }

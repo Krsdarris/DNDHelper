@@ -1,0 +1,4 @@
+﻿  DNDHelper.cpp
+C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\DNDHelper.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\DNDHelper.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DNDHelper.vcxproj -> C:\Users\kris darris\Desktop\DNDHelper\DNDHelper\Debug\DNDHelper.exe
